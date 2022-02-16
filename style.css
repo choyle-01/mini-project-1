@@ -1,0 +1,35 @@
+html, body, header, h1 {
+    margin: 0;
+}
+
+body {
+    background-color: rgb(182, 187, 212);
+}
+
+h1 {
+    text-align: left;
+    font-weight: bold;
+}
+
+nav {
+    text-align: right;
+    font-size: larger;
+    font-weight: bold;
+}
+
+header {
+    border-bottom: solid black 5px;
+    background-color: rgb(179, 18, 18);
+    height: 75px;  
+}
+
+main {
+    background-color: rgb(2, 131, 131);
+    height: 500px;
+    width: 500px;
+}
+
+form {
+    background-color: rgb(51, 51, 143);
+    width: 500px;
+}
